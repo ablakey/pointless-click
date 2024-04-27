@@ -9,3 +9,5 @@ Currently there's two games:
 - _Bank Run!_: There's a run on the bank. Can you stop it?
 
 [Play it Here](https://arcade.pointless.click/)
+
+![Arcade](arcade.png)
