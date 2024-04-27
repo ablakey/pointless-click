@@ -1,0 +1,42 @@
+baseURL = 'https://todays.pointless.click'
+languageCode = 'en-us'
+title = "Today's Pointless Click"
+theme = 'Typo'
+
+[params]
+# Math mode
+math = false
+
+# Intro on main page, content in markdown, if you omit title or content the other can be displayed
+homeIntro = false
+homeIntroContent = """
+A collection of inane projects, random games, and other nonsense.
+"""
+
+# Collection to display on home page:
+# in this case we would display content/posts pages
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Pagination size across all website, this is the same for homepage and single list page
+paginationSize = 100
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks, all styles:
+# https://xyproto.github.io/splash/docs/all.html
+# I suggest algol
+[markup]
+[markup.highlight]
+style = 'algol'
