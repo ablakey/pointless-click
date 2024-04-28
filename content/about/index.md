@@ -1,3 +1,10 @@
+# The Site
+
+Today's Pointless Click is a collection of nonsense. Some of it might have some sort of educational or entertainment value, but it's all meant to scratch my own development itch.
+
+
+# The Author
+
 I have been working as a software engineer in the industrial/warehouse mobile robotics industry since 2013. I've independently designed and developed real-time monitoring software that currently manages a fleet of *over ten thousand robots operating worldwide.*
 
 Today I lead a team of software engineers in developing mobile robot mapping, fleet configuration, and monitoring applications for Web, dashboard, and mobile uses in large warehouse spaces.
