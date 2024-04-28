@@ -1,6 +1,6 @@
 # The Site
 
-Today's Pointless Click is a collection of nonsense. Some of it might have some sort of educational or entertainment value, but it's all meant to scratch my own development itch.
+Today's Pointless Click is a collection of nonsense. Some of it might have some sort of educational or entertainment value, but it's all meant to scratch my own development itch. It's for fun! Can't we just have fun once in a while?
 
 
 # The Author
@@ -34,7 +34,7 @@ Sometimes it helps to build a mental model of someone by looking at the tools th
 * QGIS, ArcGIS, ENVI, ERDAS, Geomatica
 
 
-## Links
+# Links
 
 E-Mail: [ablakey@gmail.com](mailto:ablakey@gmail.com)
 
