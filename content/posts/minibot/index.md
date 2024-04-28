@@ -1,6 +1,8 @@
 ---
 title: "Minibot"
 date: "2022-12-10"
+params:
+  starred: true
 ---
 
 I'm building a Pololu Romi + Raspberry Pi that will do... I'm not quite sure what, yet.
