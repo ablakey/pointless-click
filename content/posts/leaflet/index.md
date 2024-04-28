@@ -1,5 +1,5 @@
 ---
-title: "Leaflet Plugin: Simple Graticule"
+title: "Leaflet: Simple Graticule"
 date: "2014-10-01"
 ---
 A graticule, but for unprojected Cartesian spaces.

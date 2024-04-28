@@ -15,7 +15,6 @@ A collection of inane projects, random games, and other nonsense.
 
 # Collection to display on home page:
 # in this case we would display content/posts pages
-homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
 
 # Pagination size across all website, this is the same for homepage and single list page
@@ -25,10 +24,6 @@ paginationSize = 100
 [[params.menu]]
 name = "home"
 url = "/"
-
-[[params.menu]]
-name = "posts"
-url = "/posts"
 
 [[params.menu]]
 name = "about"
