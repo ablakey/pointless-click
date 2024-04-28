@@ -4,7 +4,7 @@ Today I lead a team of software engineers in developing mobile robot mapping, fl
 
 ![photo of me](about.jpg)
 
-Most of my time is enjoyed being a parent to two boys, which usually means getting into lots of mischief. When I'm not doing any of that, I'm likely on the piano, working on some construction projects (such as rebuilding my deck and patio), or writing software for fun. I completed both a BES and MSc in Geography at the University of Waterloo.
+Most of my time is enjoyed being a dad of two boys, which usually means getting into lots of mischief. When I'm not doing any of that, I'm likely on the piano, working on home rennovations, or writing software for fun. I completed both a BES and MSc in Geography at the University of Waterloo.
 
 ## Development Philosophy
 
@@ -19,15 +19,18 @@ Once our product and company matured, and our customer base grew by multiple ord
 
 ## Tech Overview
 
-Sometimes it helps build a mental model of someone by looking at the tools they use:
+Sometimes it helps to build a mental model of someone by looking at the tools they use:
 
 * TypeScript, Python, Rust, C#
-* React, Django, AWS/CDK, Postgres
+* React, Django, AWS/CDK, PostgreSQL
 * [ROS](https://ros.org/) - the Robot Operating System
-* QGIS, ESRI, ENVI, ERDAS, Geomatica
+* QGIS, ArcGIS, ENVI, ERDAS, Geomatica
 
-## Contact
+
+## Links
 
 E-Mail: [ablakey@gmail.com](mailto:ablakey@gmail.com)
 
 GitHub: [Andrew Blakey](https://github.com/ablakey)
+
+Blog Template: [Typo by Francesco Tomaselli](https://github.com/tomfran/typo)
