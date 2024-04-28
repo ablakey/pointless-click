@@ -9,4 +9,4 @@ This doesn't fix any of the fundamental problems with Rospy as it still uses thr
 
 This work was co-developed by and is now maintained by a colleague.
 
-[Source Code](https://github.com/locusrobotics/aiorospy)
+[Source code](https://github.com/locusrobotics/aiorospy)

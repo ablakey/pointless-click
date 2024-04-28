@@ -8,7 +8,7 @@ I wrote a simple game based on a board game my kids love. This was mostly an exp
 
 [Check it out here](https://rubik.pointless.click)
 
-[Source Code](https://github.com/ablakey/rubik)
+[Source code](https://github.com/ablakey/rubik)
 
 ![Rubik](rubik.jpg)
 

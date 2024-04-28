@@ -13,7 +13,7 @@ Please be careful when you microwave Pop Tarts. The preset is usually the safest
 
 [Check it out here](https://microwave.pointless.click)
 
-[Source Code](https://github.com/ablakey/microwave)
+[Source code](https://github.com/ablakey/microwave)
 
 ![Microwave](microwave.jpg)
 
