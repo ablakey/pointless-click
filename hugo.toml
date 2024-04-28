@@ -1,7 +1,7 @@
 baseURL = 'https://todays.pointless.click'
 languageCode = 'en-us'
 title = "Today's Pointless Click"
-theme = 'Typo'
+theme = 'typo'
 
 [params]
 # Math mode
